@@ -104,3 +104,5 @@ deploy:
   type: git
   repo: git@github.com:jiangxu05/blog.git
   branch: gh-pages
+  name: jiangxu05
+  email: jiangxu05@outlook.com
